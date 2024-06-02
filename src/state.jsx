@@ -96,7 +96,7 @@ export default function State() {
       {submission && (
         <h4>
           {" "}
-          You Selected {city}, {state}, {country}
+          You selected {city}, {state}, {country}
         </h4>
       )}
     </div>
