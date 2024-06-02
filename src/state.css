@@ -1,0 +1,11 @@
+.searchbar {
+  height: 30px;
+  width: 100vw;
+  display: flex;
+  justify-content: space-around;
+  /* border: 1px solid red; */
+}
+
+.searchbar > select {
+  width: 200px;
+}
